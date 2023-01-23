@@ -1,11 +1,11 @@
 import createTable from "./tableModule.js";
 
 const entryList = {
-    "columns": ["Team", "Driver 1", "Driver 2", "Origin"],
+    "columns": ["Team", "Driver 1", "Driver 2", "Homebase"],
     "teams":{
         "Mercedes-AMG Petronas Formula 1 Team": {
             "driver": ["Lewis Hamilton", "George Russel"],
-            "homebase": "Germany"
+            "homebase": "Great Britain"
         },
         "Oracle Red Bull Racing": {
             "driver": ["Max Verstappen", "Sergio Perez"],
